@@ -1,14 +1,4 @@
 # Data_Science_Specialisation_Capstone_Project
-title: "Data Science Capstone Final Project"
-author: "Amos Yap "
-date: "08/11/2023"
-output: ioslides_presentation
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
 ## Overview
 
 This project was the final part of a 10 course Data Science track by Johns Hopkins University on Coursera. It was done as an industry partnership with SwiftKey. The job was to clean and analyze a large corpus of unstructured text and build a word prediction model and use it in a web application.
